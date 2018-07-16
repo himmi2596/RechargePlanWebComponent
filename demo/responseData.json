@@ -1,0 +1,10 @@
+{
+	"BrowsePlanCategory":null,
+	"Operator":null,
+	"Region":null,
+	"DenominationCategory":[{"CategoryId":1,"CategoryName":"Topup Plan"},{"CategoryId":2,"CategoryName":"2GPlan"},{"CategoryId":5,"CategoryName":"ISDPlan"},{"CategoryId":7,"CategoryName":"SMSPack"},{"CategoryId":10,"CategoryName":"3GPlan"},
+		{"CategoryId":132,"CategoryName":"3G/4GPlan"},{"CategoryId":133,"CategoryName":"JIO PRIME ACTIVATION"},{"CategoryId":1,"CategoryName":"Topup Plan"},{"CategoryId":2,"CategoryName":"2GPlan"},{"CategoryId":5,"CategoryName":"ISDPlan"},{"CategoryId":7,"CategoryName":"SMSPack"},{"CategoryId":10,"CategoryName":"3GPlan"},
+			{"CategoryId":132,"CategoryName":"3G/4GPlan"},{"CategoryId":133,"CategoryName":"JIO PRIME ACTIVATION"},{"CategoryId":1,"CategoryName":"Topup Plan"},{"CategoryId":2,"CategoryName":"2GPlan"},{"CategoryId":5,"CategoryName":"ISDPlan"},{"CategoryId":7,"CategoryName":"SMSPack"},{"CategoryId":10,"CategoryName":"3GPlan"},
+				{"CategoryId":132,"CategoryName":"3G/4GPlan"},{"CategoryId":133,"CategoryName":"JIO PRIME ACTIVATION"}],
+	"Plans":null
+}

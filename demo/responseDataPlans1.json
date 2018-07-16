@@ -1,0 +1,8 @@
+{
+  "BrowsePlanCategory":null,
+  "Operator":null,
+  "Region":null,
+  "DenominationCategory":null,
+  "Plans":[{"Amount":60,"Talktime":54,"Validity":"NA","description":"Where does it come from?Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."},{"Amount":69,"Talktime":73,"Validity":"21 Days","description":"Talktime 69for 21 days"},{"Amount":100,"Talktime":100,"Validity":"NA","description":"TalkTime - 100"},
+    {"Amount":109,"Talktime":109,"Validity":"28Days","description":"Talktime 109 for 28 days; 130MB for 5days"},{"Amount":150,"Talktime":160,"Validity":"NA","description":"Talk Time -160"},{"Amount":200,"Talktime":220,"Validity":"NA","description":"Talk Time -220"}]
+}

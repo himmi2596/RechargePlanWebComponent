@@ -1,0 +1,8 @@
+{
+  "BrowsePlanCategory":null,
+  "Operator":null,
+  "Region":null,
+  "DenominationCategory":null,
+  "Plans":[{"Amount":200,"Talktime":100,"Validity":"30days","description":"TalkTime - 100"},{"Amount":550,"Talktime":109,"Validity":"28Days","description":"Talktime 109 for 28 days; 130MB for 5days"},{"Amount":460,"Talktime":160,"Validity":"80days","description":"Talk Time -160"},
+    {"Amount":200,"Talktime":220,"Validity":"NA","description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."}]
+}
